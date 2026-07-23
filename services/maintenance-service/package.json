@@ -1,7 +1,7 @@
 {
-  "name": "lease-service",
+  "name": "maintenance-service",
   "version": "1.0.0",
-  "description": "Commercial Lease & Agreement Microservice",
+  "description": "Commercial Maintenance & Work Order Microservice",
   "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
